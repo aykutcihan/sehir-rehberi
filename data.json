@@ -60,6 +60,15 @@
     "icon": "🔧",
     "image": "",
     "description": "Saatlik kiralanan ekipmanlarla aracının bakımını kendi ellerinle yapabileceğin pratik bir garaj. Yağ, filtre, fren balatası ve disk değişimi için ihtiyacın olan her şey burada, gerektiğinde yardım da alabilirsin.",
+    "address": "DeDoeHetZelfGarage, Industrieweg 24i, 5262 GJ Vught"
+  },
+  {
+    "id": 10,
+    "name": "Autobedrijf Beukenhof",
+    "category": "Araba Tamir",
+    "icon": "🚗",
+    "image": "",
+    "description": "Kasteleinenkampweg üzerinde oto tamir servisi.",
     "address": "Autobedrijf Beukenhof, Kasteleinenkampweg 4, 5222 AX 's-Hertogenbosch"
   },
   {
