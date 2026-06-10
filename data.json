@@ -1,5 +1,23 @@
 [
   {
+    "id": 2,
+    "name": "Wilhelmina Kebab",
+    "category": "Restoran",
+    "icon": "🥙",
+    "image": "",
+    "description": "Wilhelminaplein üzerinde döner ve kebap salonu.",
+    "address": "Wilhelmina Kebab, Wilhelminaplein 20-A, 5684 VL Best"
+  },
+  {
+    "id": 6,
+    "name": "Simitella",
+    "category": "Restoran",
+    "icon": "🥖",
+    "image": "",
+    "description": "Leeghwaterlaan üzerinde restoran.",
+    "address": "Leeghwaterlaan 97, 5223 DS 's-Hertogenbosch"
+  },
+  {
     "id": 1,
     "name": "Zeezand",
     "category": "Restoran",
@@ -7,5 +25,41 @@
     "image": "",
     "description": "Tramkade üzerinde, deniz mahsulleri ağırlıklı restoran.",
     "address": "Zeezand, Tramkade 3, 5211 VB 's-Hertogenbosch"
+  },
+  {
+    "id": 3,
+    "name": "Sonay Supermarket",
+    "category": "Market",
+    "icon": "🛒",
+    "image": "",
+    "description": "Christiaan Huygensweg üzerinde market.",
+    "address": "Sonay Supermarket, Christiaan Huygensweg 127-129, 5223 BH 's-Hertogenbosch"
+  },
+  {
+    "id": 4,
+    "name": "Marmaris Supermarket",
+    "category": "Market",
+    "icon": "🛒",
+    "image": "",
+    "description": "Türk marketi ve helal kasap, Boschmeersingel üzerinde.",
+    "address": "Marmaris Supermarket, Boschmeersingel 115, 5223 HH 's-Hertogenbosch"
+  },
+  {
+    "id": 5,
+    "name": "Van Abeelen APK",
+    "category": "Araba Tamir",
+    "icon": "🚗",
+    "image": "",
+    "description": "Randevusuz APK (araç muayene) ve oto bakım istasyonu.",
+    "address": "Van Abeelen APK, Helftheuvelweg 92, 5224 AS 's-Hertogenbosch"
+  },
+  {
+    "id": 7,
+    "name": "Autobedrijf Beukenhof",
+    "category": "Araba Tamir",
+    "icon": "🚗",
+    "image": "",
+    "description": "Kasteleinenkampweg üzerinde oto tamir servisi.",
+    "address": "Autobedrijf Beukenhof, Kasteleinenkampweg 4, 5222 AX 's-Hertogenbosch"
   }
 ]
