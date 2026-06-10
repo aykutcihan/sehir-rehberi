@@ -70,5 +70,14 @@
     "image": "",
     "description": "Yürüyüş ve dinlenmek için şehir parkı.",
     "address": "Şehir Parkı, Şehir Merkezi"
+  },
+  {
+    "id": 9,
+    "name": "Zeezand",
+    "category": "Restoran",
+    "icon": "🦐",
+    "image": "",
+    "description": "Tramkade üzerinde, deniz mahsulleri ağırlıklı restoran.",
+    "address": "Tramkade 3, 5211 VB 's-Hertogenbosch"
   }
 ]
