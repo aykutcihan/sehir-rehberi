@@ -7,6 +7,7 @@ const modalDesc = document.getElementById('modal-desc');
 const modalAddress = document.getElementById('modal-address');
 const modalMap = document.getElementById('modal-map');
 const modalLink = document.getElementById('modal-link');
+const modalWebsite = document.getElementById('modal-website');
 const modalClose = document.getElementById('modal-close');
 
 let places = [];
@@ -91,6 +92,13 @@ function openModal(place) {
   const query = encodeURIComponent(place.address);
   modalMap.src = `https://maps.google.com/maps?q=${query}&z=15&output=embed`;
   modalLink.href = `https://www.google.com/maps/search/?api=1&query=${query}`;
+
+  if (place.website) {
+    modalWebsite.href = place.website;
+    modalWebsite.classList.remove('hidden');
+  } else {
+    modalWebsite.classList.add('hidden');
+  }
 
   modal.classList.remove('hidden');
 }

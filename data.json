@@ -55,11 +55,21 @@
   },
   {
     "id": 7,
-    "name": "Autobedrijf Beukenhof",
+    "name": "Kendin Yap Garajı",
     "category": "Araba Tamir",
-    "icon": "🚗",
+    "icon": "🔧",
     "image": "",
-    "description": "Kasteleinenkampweg üzerinde oto tamir servisi.",
+    "description": "Saatlik ücret karşılığında kendi aracının bakımını yapabileceğin garaj. Yağ, filtre, fren balatası ve fren diski değişimi için ekipman mevcut, yardımcı da oluyorlar.",
     "address": "Autobedrijf Beukenhof, Kasteleinenkampweg 4, 5222 AX 's-Hertogenbosch"
+  },
+  {
+    "id": 8,
+    "name": "TekCarsi",
+    "category": "Online Market",
+    "icon": "🛍️",
+    "image": "",
+    "description": "Türk ürünleri (lokum, baharat, zeytinyağı, peynir vb.) satan online market. Helal ürünler.",
+    "address": "Industrielaan 97, 5349 AE Oss",
+    "website": "https://tekcarsi.nl/"
   }
 ]

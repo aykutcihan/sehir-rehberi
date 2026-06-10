@@ -124,7 +124,7 @@ header p {
   z-index: 50;
 }
 
-.modal.hidden {
+.hidden {
   display: none;
 }
 
@@ -169,7 +169,8 @@ header p {
 }
 
 .modal-link {
-  display: inline-block;
+  display: block;
+  margin-top: 0.5rem;
   color: var(--primary);
   font-weight: 600;
   text-decoration: none;
