@@ -83,6 +83,15 @@
     "website": "https://tekcarsi.nl/"
   },
   {
+    "id": 11,
+    "name": "Çiftlik Yumurtaları",
+    "category": "Çiftlik Ürünleri",
+    "icon": "🥚",
+    "image": "",
+    "description": "Günlük taze yumurta satışı yapılan çiftlik standı.",
+    "address": "De Oude Ploeg 1, 5258 GA Berlicum"
+  },
+  {
     "id": 9,
     "name": "Türkçe Radyolar",
     "category": "Diğer",
