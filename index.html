@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Şehir Rehberi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Şehre Hoş Geldiniz 👋</h1>
+    <p>Yeni taşındıysan ihtiyacın olabilecek yerleri burada bulabilirsin.</p>
+  </header>
+
+  <nav id="filters"></nav>
+
+  <main id="grid" class="grid"></main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="modal-close" class="modal-close">&times;</button>
+      <div id="modal-icon" class="modal-icon"></div>
+      <h2 id="modal-title"></h2>
+      <p id="modal-desc"></p>
+      <p id="modal-address" class="modal-address"></p>
+      <iframe id="modal-map" class="modal-map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <a id="modal-link" class="modal-link" target="_blank" rel="noopener">Google Haritalar'da Aç ↗</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>Bu rehber sürekli güncellenmektedir.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
