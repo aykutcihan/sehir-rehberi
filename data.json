@@ -7,6 +7,8 @@
     "image": "",
     "description": "Türk usulü yaprak döner bulacağınız nadir restoranlardan biri.",
     "address": "Wilhelmina Kebab, Wilhelminaplein 20-A, 5684 VL Best",
+    "lat": 51.496856,
+    "lng": 5.394113,
     "website": "https://www.wilhelmina-kebab.nl/"
   },
   {
@@ -16,7 +18,9 @@
     "icon": "🥖",
     "image": "",
     "description": "Leeghwaterlaan üzerinde restoran.",
-    "address": "Leeghwaterlaan 97, 5223 DS 's-Hertogenbosch"
+    "address": "Leeghwaterlaan 97, 5223 DS 's-Hertogenbosch",
+    "lat": 51.691082,
+    "lng": 5.2915646
   },
   {
     "id": 1,
@@ -25,7 +29,9 @@
     "icon": "🦐",
     "image": "",
     "description": "Tramkade üzerinde, deniz mahsulleri ağırlıklı restoran.",
-    "address": "Zeezand, Tramkade 3, 5211 VB 's-Hertogenbosch"
+    "address": "Zeezand, Tramkade 3, 5211 VB 's-Hertogenbosch",
+    "lat": 51.6953936,
+    "lng": 5.298312
   },
   {
     "id": 3,
@@ -34,7 +40,9 @@
     "icon": "🛒",
     "image": "",
     "description": "Christiaan Huygensweg üzerinde market.",
-    "address": "Sonay Supermarket, Christiaan Huygensweg 127-129, 5223 BH 's-Hertogenbosch"
+    "address": "Sonay Supermarket, Christiaan Huygensweg 127-129, 5223 BH 's-Hertogenbosch",
+    "lat": 51.6921379,
+    "lng": 5.2897162
   },
   {
     "id": 12,
@@ -43,7 +51,9 @@
     "icon": "🥩",
     "image": "",
     "description": "Helal kasap.",
-    "address": "Slachterij Hooijmans, Luttel Inghweg 2, 5331 PN Kerkdriel"
+    "address": "Slachterij Hooijmans, Luttel Inghweg 2, 5331 PN Kerkdriel",
+    "lat": 51.7776873,
+    "lng": 5.3173827
   },
   {
     "id": 4,
@@ -52,7 +62,9 @@
     "icon": "🛒",
     "image": "",
     "description": "Türk marketi ve helal kasap, Boschmeersingel üzerinde.",
-    "address": "Marmaris Supermarket, Boschmeersingel 115, 5223 HH 's-Hertogenbosch"
+    "address": "Marmaris Supermarket, Boschmeersingel 115, 5223 HH 's-Hertogenbosch",
+    "lat": 51.6938184,
+    "lng": 5.2691114
   },
   {
     "id": 5,
@@ -61,7 +73,9 @@
     "icon": "🚗",
     "image": "",
     "description": "Randevusuz APK (araç muayene) ve oto bakım istasyonu.",
-    "address": "Van Abeelen APK, Helftheuvelweg 92, 5224 AS 's-Hertogenbosch"
+    "address": "Van Abeelen APK, Helftheuvelweg 92, 5224 AS 's-Hertogenbosch",
+    "lat": 51.695111,
+    "lng": 5.264457
   },
   {
     "id": 7,
@@ -70,7 +84,9 @@
     "icon": "🔧",
     "image": "",
     "description": "Saatlik kiralanan ekipmanlarla aracının bakımını kendi ellerinle yapabileceğin pratik bir garaj. Yağ, filtre, fren balatası ve disk değişimi için ihtiyacın olan her şey burada, gerektiğinde yardım da alabilirsin.",
-    "address": "DeDoeHetZelfGarage, Industrieweg 24i, 5262 GJ Vught"
+    "address": "DeDoeHetZelfGarage, Industrieweg 24i, 5262 GJ Vught",
+    "lat": 51.6454930,
+    "lng": 5.2915418
   },
   {
     "id": 10,
@@ -79,7 +95,9 @@
     "icon": "🚗",
     "image": "",
     "description": "Kasteleinenkampweg üzerinde oto tamir servisi.",
-    "address": "Autobedrijf Beukenhof, Kasteleinenkampweg 4, 5222 AX 's-Hertogenbosch"
+    "address": "Autobedrijf Beukenhof, Kasteleinenkampweg 4, 5222 AX 's-Hertogenbosch",
+    "lat": 51.7035431,
+    "lng": 5.2690805
   },
   {
     "id": 8,
@@ -89,6 +107,8 @@
     "image": "",
     "description": "Türk ürünleri (lokum, baharat, zeytinyağı, peynir vb.) satan online market. Helal ürünler.",
     "address": "Industrielaan 97, 5349 AE Oss",
+    "lat": 51.7634396,
+    "lng": 5.5452730,
     "website": "https://tekcarsi.nl/"
   },
   {
@@ -98,7 +118,9 @@
     "icon": "🥚",
     "image": "",
     "description": "Günlük taze yumurta satışı yapılan çiftlik standı.",
-    "address": "De Oude Ploeg 1, 5258 GA Berlicum"
+    "address": "De Oude Ploeg 1, 5258 GA Berlicum",
+    "lat": 51.6736856,
+    "lng": 5.4109469
   },
   {
     "id": 9,

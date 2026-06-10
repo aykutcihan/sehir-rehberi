@@ -99,7 +99,9 @@ function openModal(place) {
     modalMap.classList.remove('hidden');
     modalLink.href = `https://www.google.com/maps/search/?api=1&query=${query}`;
     modalLink.classList.remove('hidden');
-    modalWaze.href = `https://waze.com/ul?q=${query}&navigate=yes`;
+    modalWaze.href = (place.lat && place.lng)
+      ? `https://waze.com/ul?ll=${place.lat}%2C${place.lng}&navigate=yes`
+      : `https://waze.com/ul?q=${query}&navigate=yes`;
     modalWaze.classList.remove('hidden');
   } else {
     modalAddress.classList.add('hidden');
