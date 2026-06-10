@@ -37,6 +37,15 @@
     "address": "Sonay Supermarket, Christiaan Huygensweg 127-129, 5223 BH 's-Hertogenbosch"
   },
   {
+    "id": 12,
+    "name": "Slachterij Hooijmans",
+    "category": "Market",
+    "icon": "🥩",
+    "image": "",
+    "description": "Helal kasap.",
+    "address": "Slachterij Hooijmans, Luttel Inghweg 2, 5331 PN Kerkdriel"
+  },
+  {
     "id": 4,
     "name": "Marmaris Supermarket",
     "category": "Market",
