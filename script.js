@@ -7,6 +7,7 @@ const modalDesc = document.getElementById('modal-desc');
 const modalAddress = document.getElementById('modal-address');
 const modalMap = document.getElementById('modal-map');
 const modalLink = document.getElementById('modal-link');
+const modalWaze = document.getElementById('modal-waze');
 const modalWebsite = document.getElementById('modal-website');
 const modalDownload = document.getElementById('modal-download');
 const modalClose = document.getElementById('modal-close');
@@ -98,10 +99,13 @@ function openModal(place) {
     modalMap.classList.remove('hidden');
     modalLink.href = `https://www.google.com/maps/search/?api=1&query=${query}`;
     modalLink.classList.remove('hidden');
+    modalWaze.href = `https://waze.com/ul?q=${query}&navigate=yes`;
+    modalWaze.classList.remove('hidden');
   } else {
     modalAddress.classList.add('hidden');
     modalMap.classList.add('hidden');
     modalLink.classList.add('hidden');
+    modalWaze.classList.add('hidden');
   }
 
   if (place.website) {
