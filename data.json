@@ -71,5 +71,17 @@
     "description": "Türk ürünleri (lokum, baharat, zeytinyağı, peynir vb.) satan online market. Helal ürünler.",
     "address": "Industrielaan 97, 5349 AE Oss",
     "website": "https://tekcarsi.nl/"
+  },
+  {
+    "id": 9,
+    "name": "Türkçe Radyolar",
+    "category": "Diğer",
+    "icon": "📻",
+    "image": "",
+    "description": "Türkçe radyo istasyonlarına kolayca ulaşabileceğin güzel bir uygulama.",
+    "address": "",
+    "website": "https://aykutcihan.github.io/tv-takip/radyo-app/",
+    "websiteLabel": "Radyoları Aç ↗",
+    "downloadUrl": "https://aykutcihan.github.io/tv-takip/radyo-app/radyo.apk"
   }
 ]

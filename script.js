@@ -8,6 +8,7 @@ const modalAddress = document.getElementById('modal-address');
 const modalMap = document.getElementById('modal-map');
 const modalLink = document.getElementById('modal-link');
 const modalWebsite = document.getElementById('modal-website');
+const modalDownload = document.getElementById('modal-download');
 const modalClose = document.getElementById('modal-close');
 
 let places = [];
@@ -87,17 +88,35 @@ function openModal(place) {
   modalIcon.textContent = place.icon || '📍';
   modalTitle.textContent = place.name;
   modalDesc.textContent = place.description;
-  modalAddress.textContent = place.address;
 
-  const query = encodeURIComponent(place.address);
-  modalMap.src = `https://maps.google.com/maps?q=${query}&z=15&output=embed`;
-  modalLink.href = `https://www.google.com/maps/search/?api=1&query=${query}`;
+  if (place.address) {
+    modalAddress.textContent = place.address;
+    modalAddress.classList.remove('hidden');
+
+    const query = encodeURIComponent(place.address);
+    modalMap.src = `https://maps.google.com/maps?q=${query}&z=15&output=embed`;
+    modalMap.classList.remove('hidden');
+    modalLink.href = `https://www.google.com/maps/search/?api=1&query=${query}`;
+    modalLink.classList.remove('hidden');
+  } else {
+    modalAddress.classList.add('hidden');
+    modalMap.classList.add('hidden');
+    modalLink.classList.add('hidden');
+  }
 
   if (place.website) {
     modalWebsite.href = place.website;
+    modalWebsite.textContent = place.websiteLabel || "Web Sitesini Aç ↗";
     modalWebsite.classList.remove('hidden');
   } else {
     modalWebsite.classList.add('hidden');
+  }
+
+  if (place.downloadUrl) {
+    modalDownload.href = place.downloadUrl;
+    modalDownload.classList.remove('hidden');
+  } else {
+    modalDownload.classList.add('hidden');
   }
 
   modal.classList.remove('hidden');
