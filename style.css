@@ -32,7 +32,6 @@ header h1 {
   width: 1.6em;
   height: 1.6em;
   object-fit: cover;
-  object-position: center 30%;
   border-radius: 50%;
   vertical-align: middle;
   border: 2px solid rgba(255, 255, 255, 0.6);
