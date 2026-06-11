@@ -112,6 +112,17 @@
     "website": "https://tekcarsi.nl/"
   },
   {
+    "id": 17,
+    "name": "A2A2 De Puurste Zuivel",
+    "category": "Çiftlik Ürünleri",
+    "icon": "🥛",
+    "image": "",
+    "description": "Çiftlikten taze süt ve süt ürünleri satın alabileceğin bir otomat/mağaza.",
+    "address": "Nieuwe Dijk 2, 5216 VV 's-Hertogenbosch",
+    "lat": 51.6686488,
+    "lng": 5.3380675
+  },
+  {
     "id": 11,
     "name": "Çiftlik Yumurtaları",
     "category": "Çiftlik Ürünleri",
@@ -121,6 +132,39 @@
     "address": "De Oude Ploeg 1, 5258 GA Berlicum",
     "lat": 51.6736856,
     "lng": 5.4109469
+  },
+  {
+    "id": 16,
+    "name": "Den Dungen Süt Çiftliği",
+    "category": "Çiftlik Ürünleri",
+    "icon": "🥛",
+    "image": "",
+    "description": "Taze süt ve süt ürünleri satın alabileceğin bir çiftlik.",
+    "address": "Hooidonksestraat 1C, 5275 HV Den Dungen",
+    "lat": 51.6729344,
+    "lng": 5.3771984
+  },
+  {
+    "id": 15,
+    "name": "Ruidigerdreef Süt Çiftliği",
+    "category": "Çiftlik Ürünleri",
+    "icon": "🥛",
+    "image": "",
+    "description": "Taze süt ve süt ürünleri satın alabileceğin bir çiftlik.",
+    "address": "Ruidigerdreef, 5266 AZ Cromvoirt",
+    "lat": 51.683649,
+    "lng": 5.228227
+  },
+  {
+    "id": 14,
+    "name": "Berlicum Süt Çiftliği",
+    "category": "Çiftlik Ürünleri",
+    "icon": "🥛",
+    "image": "",
+    "description": "Sabah ve akşam saat 8'de sağım yapılıyor, bu saatlerde uğrayanlar sıcak taze süt alabilir.",
+    "address": "Werststeeg 35, 5258 TA Berlicum",
+    "lat": 51.6839328,
+    "lng": 5.4157677
   },
   {
     "id": 13,
