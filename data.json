@@ -34,6 +34,17 @@
     "lng": 5.298312
   },
   {
+    "id": 22,
+    "name": "Alanya Supermarket",
+    "category": "Market",
+    "icon": "🛒",
+    "image": "",
+    "description": "Empel semtinde Türk marketi.",
+    "address": "Alanya Supermarket, Rompertpassage 3, 5233 AN 's-Hertogenbosch",
+    "lat": 51.711901,
+    "lng": 5.3138108
+  },
+  {
     "id": 3,
     "name": "Sonay Supermarket",
     "category": "Market",
