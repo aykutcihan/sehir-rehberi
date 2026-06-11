@@ -123,6 +123,16 @@
     "lng": 5.4109469
   },
   {
+    "id": 13,
+    "name": "Cebecioglu Baklava",
+    "category": "Online Market",
+    "icon": "🍯",
+    "image": "",
+    "description": "Baklava, kadayıf, börek ve kuruyemiş satan online Türk pastanesi.",
+    "address": "",
+    "website": "https://cebecioglubaklava.nl/shop/"
+  },
+  {
     "id": 9,
     "name": "Türkçe Radyolar",
     "category": "Diğer",
