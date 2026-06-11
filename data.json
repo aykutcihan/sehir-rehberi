@@ -89,6 +89,17 @@
     "lng": 5.2915418
   },
   {
+    "id": 20,
+    "name": "Babylon Banden- en Velgenservice",
+    "category": "Araba Tamir",
+    "icon": "🛞",
+    "image": "",
+    "description": "İkinci el lastik ve jant bulabileceğin lastik-jant servisi. Lastik değişimi, balans ve montaj hizmeti de veriliyor.",
+    "address": "Babylon Banden- en Velgenservice, Oude Vlijmenseweg 60A, 5223 GN 's-Hertogenbosch",
+    "lat": 51.6891326,
+    "lng": 5.2750216
+  },
+  {
     "id": 10,
     "name": "Autobedrijf Beukenhof",
     "category": "Araba Tamir",
@@ -175,6 +186,17 @@
     "description": "Baklava, kadayıf, börek ve kuruyemiş satan online Türk pastanesi.",
     "address": "",
     "website": "https://cebecioglubaklava.nl/shop/"
+  },
+  {
+    "id": 19,
+    "name": "Toolstation Den Bosch",
+    "category": "Diğer",
+    "icon": "🛠️",
+    "image": "",
+    "description": "El aletleri, yapı ve tadilat malzemelerinin yanı sıra araba ve römork için yedek parça/aksesuar da satan mağaza.",
+    "address": "Toolstation Den Bosch, Docterskampstraat 1B, 5222 AM 's-Hertogenbosch",
+    "lat": 51.7040694,
+    "lng": 5.2710936
   },
   {
     "id": 18,
