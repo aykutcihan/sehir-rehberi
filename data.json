@@ -177,6 +177,17 @@
     "website": "https://cebecioglubaklava.nl/shop/"
   },
   {
+    "id": 18,
+    "name": "Het Fietshuis | Copernikkel",
+    "category": "Diğer",
+    "icon": "🚲",
+    "image": "",
+    "description": "Bisiklet satışı, tamiri ve bakımı yapılan dükkan.",
+    "address": "Het Fietshuis | Copernikkel, Kelvinstraat 43, 5223 GD 's-Hertogenbosch",
+    "lat": 51.6943462,
+    "lng": 5.2851408
+  },
+  {
     "id": 9,
     "name": "Türkçe Radyolar",
     "category": "Diğer",
