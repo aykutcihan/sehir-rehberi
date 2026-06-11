@@ -210,6 +210,17 @@
     "lng": 5.2851408
   },
   {
+    "id": 21,
+    "name": "Halal Border",
+    "category": "Diğer",
+    "icon": "✅",
+    "image": "",
+    "description": "Albert Heijn, Jumbo, Aldi, Lidl gibi süpermarketlerdeki ürünlerin helal ve sağlık standartlarına uygunluğunu inceleyen bir platform.",
+    "address": "",
+    "website": "https://www.halalborder.com/",
+    "websiteLabel": "Siteyi Aç ↗"
+  },
+  {
     "id": 9,
     "name": "Türkçe Radyolar",
     "category": "Diğer",
