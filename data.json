@@ -89,6 +89,28 @@
     "lng": 5.2691114
   },
   {
+    "id": 24,
+    "name": "Bogamat Automaterialen",
+    "category": "Araba Tamir",
+    "icon": "🔩",
+    "image": "",
+    "description": "1978'den beri hizmet veren, 80.000'den fazla çeşitte oto yedek parça ve malzemesi bulunan büyük bir mağaza.",
+    "address": "Bogamat Automaterialen, Kasteleinenkampweg 12, 5222 AX 's-Hertogenbosch",
+    "lat": 51.7031428,
+    "lng": 5.2678867
+  },
+  {
+    "id": 25,
+    "name": "Toolstation Den Bosch",
+    "category": "Araba Tamir",
+    "icon": "🛠️",
+    "image": "",
+    "description": "El aletlerinin yanı sıra araba ve römork için yedek parça/aksesuar da bulabileceğin mağaza.",
+    "address": "Toolstation Den Bosch, Docterskampstraat 1B, 5222 AM 's-Hertogenbosch",
+    "lat": 51.7040694,
+    "lng": 5.2710936
+  },
+  {
     "id": 5,
     "name": "Van Abeelen APK",
     "category": "Araba Tamir",
