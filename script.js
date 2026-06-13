@@ -51,6 +51,10 @@ function renderGrid() {
     (p) => activeCategory === 'Tümü' || p.category === activeCategory
   );
 
+  if (activeCategory === 'Tümü') {
+    items.sort((a, b) => a.name.localeCompare(b.name, 'tr'));
+  }
+
   grid.innerHTML = '';
   items.forEach((place) => {
     const card = document.createElement('div');

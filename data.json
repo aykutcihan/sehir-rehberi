@@ -232,17 +232,6 @@
     "website": "https://cebecioglubaklava.nl/shop/"
   },
   {
-    "id": 19,
-    "name": "Toolstation Den Bosch",
-    "category": "Diğer",
-    "icon": "🛠️",
-    "image": "",
-    "description": "El aletleri, yapı ve tadilat malzemelerinin yanı sıra araba ve römork için yedek parça/aksesuar da satan mağaza.",
-    "address": "Toolstation Den Bosch, Docterskampstraat 1B, 5222 AM 's-Hertogenbosch",
-    "lat": 51.7040694,
-    "lng": 5.2710936
-  },
-  {
     "id": 18,
     "name": "Het Fietshuis | Copernikkel",
     "category": "Diğer",
