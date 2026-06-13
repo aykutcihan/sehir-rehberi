@@ -27,7 +27,8 @@ fetch('data.json')
     console.error(err);
   });
 
-const CATEGORY_ORDER = ['Market', 'Çiftlik Ürünleri', 'Araba Tamir', 'Restoran', 'Online Market', 'Diğer'];
+const CATEGORY_ORDER = ['Market', 'Çiftlik Ürünleri', 'Araba Tamir', 'Restoran', 'Online Market', 'Diğer', 'Gezilecek Yerler'];
+const EXCLUDE_FROM_ALL = ['Gezilecek Yerler'];
 
 function renderFilters() {
   const present = new Set(places.map((p) => p.category));
@@ -47,8 +48,10 @@ function renderFilters() {
 }
 
 function renderGrid() {
-  const items = places.filter(
-    (p) => activeCategory === 'Tümü' || p.category === activeCategory
+  const items = places.filter((p) =>
+    activeCategory === 'Tümü'
+      ? !EXCLUDE_FROM_ALL.includes(p.category)
+      : p.category === activeCategory
   );
 
   if (activeCategory === 'Tümü') {
