@@ -56,6 +56,17 @@
     "lng": 5.2897162
   },
   {
+    "id": 23,
+    "name": "Slachterij van der Linden",
+    "category": "Market",
+    "icon": "🥩",
+    "image": "",
+    "description": "İslami usulde kesim yapılan kesimhane. Sığır, koyun ve keçi eti satışı yapılıyor.",
+    "address": "Slachterij van der Linden, Meierijsebaan 8, 5688 LT Oirschot",
+    "lat": 51.5316803,
+    "lng": 5.3022980
+  },
+  {
     "id": 12,
     "name": "Slachterij Hooijmans",
     "category": "Market",
