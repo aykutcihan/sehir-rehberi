@@ -27,8 +27,11 @@ fetch('data.json')
     console.error(err);
   });
 
+const CATEGORY_ORDER = ['Market', 'Çiftlik Ürünleri', 'Araba Tamir', 'Restoran', 'Online Market', 'Diğer'];
+
 function renderFilters() {
-  const categories = ['Tümü', ...new Set(places.map((p) => p.category))];
+  const present = new Set(places.map((p) => p.category));
+  const categories = ['Tümü', ...CATEGORY_ORDER.filter((cat) => present.has(cat))];
   filtersEl.innerHTML = '';
   categories.forEach((cat) => {
     const btn = document.createElement('button');
